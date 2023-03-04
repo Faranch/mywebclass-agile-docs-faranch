@@ -41,3 +41,6 @@ Priority:
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+2. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+3. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+4. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
