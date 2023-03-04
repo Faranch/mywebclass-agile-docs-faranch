@@ -1,15 +1,21 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Creating Repo
 
-User Story: [Reference the user story that this task supports]
+User Story: Accessing Site
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description:
+The task involves creating explanations on how to create a repository on Github. This article should include step-by-step instructions, visual aids, and clear narration. The acceptance criteria are that the page is no longer than 3 pages, covers all necessary steps, and is uploaded to the Github learning platform. Dependencies include having access to a Github account with appropriate permissions and software for writing the article.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate:
+4 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To:
+Faran Chaudhry
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority:
+Medium
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status:
+Not started
 
-Notes: [Include]
+Notes:
+It may be necessary to coordinate with the UX team to ensure the video is consistent with the overall design of the learning platform.
