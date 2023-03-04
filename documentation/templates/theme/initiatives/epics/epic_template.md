@@ -1,43 +1,43 @@
 "Github Improvement Epic"
 
-Description:
-
-    The epic aims to develop a comprehensive learning platform to help users understand and use Github more effectively. The platform will provide step-by-step guidance, interactive tutorials, and real-world examples to improve user skills and proficiency in using Github.
+Description: The epic aims to develop a website that teaches people how to use Github effectively by providing step-by-step guidance, interactive tutorials, and real-world examples.
 
 Goals:
 
-    Develop an engaging and user-centric learning platform.
-    Provide users with a comprehensive understanding of Github and its features.
-    Increase user productivity, collaboration, and innovation within the Github community.
+    Develop a user-friendly website to teach people Github effectively.
+    Provide a comprehensive learning platform for beginners and intermediate users.
+    Offer a variety of tutorials and examples that cover different aspects of Github.
+    Increase user proficiency and confidence in using Github.
 
 User Stories:
 
-    As a new Github user, I want to have access to a comprehensive learning platform that provides step-by-step guidance and interactive tutorials, so that I can learn the basics of Github.
-    As an experienced Github user, I want to have access to real-world examples and advanced topics, so that I can improve my skills and become a proficient Github user.
-    As a Github user, I want to have access to assessments to test my knowledge, so that I can evaluate my understanding of Github.
-    As a Github user, I want to have access to a forum or community to discuss Github-related topics and share best practices, so that I can collaborate and learn from other users.
+    As a beginner, I want to learn Github basics, including creating and managing repositories, adding collaborators, and using version control.
+    As an intermediate user, I want to learn advanced Github features, such as pull requests, merging, and branching.
+    As a user who works on open-source projects, I want to learn how to contribute to Github projects effectively.
+    As a user who manages repositories, I want to learn how to use Github for project management, including issue tracking and project boards.
 
 Dependencies:
 
-    Availability of resources and budget.
-    User feedback and input.
+    Availability of Github API for integrating Github functionality into the website.
+    Availability of relevant documentation, tutorials, and examples for creating the website content.
 
 Risks:
 
-    Technical difficulties in development and deployment.
-    User engagement and adoption.
+    Technical challenges in integrating Github API with the website.
+    Difficulty in creating effective and engaging website content.
+    Competition from other Github learning resources.
 
 Estimated Effort:
 
-    Approximately 4 weeks, depending on the complexity of the platform.
+    Approximately 500 hours of development and content creation time.
 
 Business Value:
 
-    The epic will provide significant business value by empowering users with effective tools and techniques for using Github, leading to increased productivity, collaboration, and innovation within the Github community.
+    The website will provide value to the community at large by helping users learn Github effectively, improving their proficiency and productivity. This will result in increased adoption of Github and potentially increase the number of users contributing to open-source projects, further enhancing the Github ecosystem.
 
 Priority:
 
-    High priority, as the epic is essential for providing users with the necessary tools and techniques to effectively use Github.
+    High priority, as the website will fill a gap in the existing Github learning resources and provide value to the software development community..
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
