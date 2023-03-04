@@ -1,17 +1,16 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
-
+As a new Github user, I want to have access to a comprehensive learning platform that provides step-by-step guidance and interactive tutorials, so that I can learn the basics of Github.
+ 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
-
+    -The learning platform should be accessible from the internet and should provide clear and concise instructions for new users to get started.
+    -The platform should offer a variety of learning materials, including written tutorials, videos, and interactive exercises.
+    -The platform should provide step-by-step guidance on the basic features of Github, such as creating a repository, committing changes, and branching.
+    -The learning materials should be organized in a logical and intuitive manner, with clear navigation and search capabilities.
+    -The platform should offer quizzes or assessments to test users' knowledge and understanding of Github.
+    -The platform should provide feedback and guidance to users on how to improve their skills and proficiency in using Github.
+    -The platform should be regularly updated with new learning materials to keep pace with updates and changes to Github.
+    -The learning platform should be accessible on a variety of devices, including desktop and mobile devices.
+    -The platform should include a forum or community where new users can ask questions and get help from more experienced Github users.
 
 # List Stories related to this theme
 1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
